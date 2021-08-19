@@ -74,6 +74,8 @@ Through this project, the project team learned some experience in risk managemen
 
 ![avatar](03_Design/34_Material/EntityRelationshipDiagram.png)
 
-### Data Dictionary
+[Business Model](03_Design\31_System Design\flow-process diagram)
 
-- ### [Data Dictionary](/03_Design/32_Database Design)
+[Use Case Diagram](03_Design\31_System Design\Use Case Diagram)
+
+[Data Dictionary](/03_Design/32_Database Design)
