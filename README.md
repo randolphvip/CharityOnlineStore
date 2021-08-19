@@ -1,8 +1,8 @@
 # CharityOnlineStore
 
-| Home   page                              | Auction   page                                               | Order page                                                   |
-| ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](\03_Design\34_Material\MainPage.png) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png?lastModify=1629292818) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png?lastModify=1629292818) |
+| Home   page                                    | Auction   page                                               | Order page                                                   |
+| ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![avatar](\03_Design\34_Material\MainPage.png) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png?lastModify=1629292818) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png?lastModify=1629292818) |
 
 
 
