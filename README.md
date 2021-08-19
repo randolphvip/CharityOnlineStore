@@ -1,8 +1,8 @@
 # CharityOnlineStore
 
-| Home   page                                                  | Auction   page                                               | Order page                                                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png?lastModify=1629292818) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png?lastModify=1629292818) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png?lastModify=1629292818) |
+| Home   page                              | Auction   page                                               | Order page                                                   |
+| ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](\03_Design\34_Material\MainPage.png) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png?lastModify=1629292818) | ![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png?lastModify=1629292818) |
 
 
 
@@ -12,7 +12,7 @@ The purpose of this project is to create a website for charity second-hand store
 
 In this way, the information construction of these stores can be improved to better promote the development of community services. 
 
-There are two members in our team Cong Shang was responsible for the product design,back-end, front-end development, testing and documentation. Guozhi Yin was responsible for product design, database, testing and documentation.
+There are two members in our team. Cong Shang was responsible for the product design,back-end, front-end development, testing and documentation. Guozhi Yin was responsible for product design, database, testing and documentation.
 
  
 
@@ -24,7 +24,7 @@ The project team used Microsoft Project to manage the entire project process. Fr
 
 The project team transformed the requirements into the functions of the product and carried out product design. A total of 14 functional modules were designed. After confirming the product function with the client, the project team carried out system analysis and design, test plan and test case design.
 
-In this project, the project team uses Eclipse as the development tool and the technical architecture selects JSP + SERVLET which is stable and easy to use. The team choose MYSQL as the database. In order to improve the efficiency and stability of data connection, the team use DBCP as the database connection pool. The version management tool uses GIT. With the development process, the code is constantly uploaded to GitHub. Considering the project cost, all development tools are free
+In this project, the project team uses Eclipse as the development tool. The team choose MYSQL as the database. In order to improve the efficiency and stability of data connection, the team use DBCP as the database connection pool. The version management tool uses GIT. With the development process, the code is constantly uploaded to GitHub. Considering the project cost, all development tools are free.
 
 After development, the project team conducted integration testing, system testing, and user acceptance testing of the system. All defects and bugs found in the tests were fixed. 
 
